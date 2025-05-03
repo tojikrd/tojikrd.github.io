@@ -1,1 +1,1 @@
-# tojikrd.github.io
+# tojikrd
