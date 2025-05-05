@@ -1,2 +1,0 @@
-# tojikrd
-#fghjkl;
