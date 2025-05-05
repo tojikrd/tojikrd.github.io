@@ -1,0 +1,116 @@
+body {
+    background:#D5CAE3;
+}
+
+/* Default Link Color */
+a, .la-ball-triangle-path {
+    color:#565ed2;
+}
+
+/* link Color */
+a:hover, #header.nav-solid nav a:hover {
+    color:#9c59ff;
+}
+
+/* Border Color */
+#banner .section-heading:before, .testimonial.classic footer:before {
+    background: #552E8F;
+}
+
+.pricing-block-content:hover {
+    border-color:#552E8F;
+}
+
+/* Transparent Navigation Color on a Banner */
+#header nav a, #header i {
+    color:#111;
+}
+
+/* Navigation Colors when the Navigation is sticky and solid */ 
+#header.nav-solid, #header.nav-solid a, #header.nav-solid i, #nav-mobile ul li a {
+    color:#333;
+}
+
+/* Navigation Active State */
+#header.nav-solid .active {
+    color: #552E8F;
+    border-color: #552E8F;
+}    
+
+.section-heading h2:after {
+    background:#552E8F;
+    content:"";
+    display:block;
+    width:30px;
+    height:5px;
+    margin-top:30px;
+}
+
+
+/* Banner Background and Text Colors */
+#banner {
+    background: url("../images/banner-images/Toji_P.jpg") no-repeat center top;
+    background-size:cover;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size:15px;
+    font-weight:normal;
+    color:#111;
+}
+
+/* Banner Typography */
+#banner h1 {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size:62px;
+    line-height:60px;
+    font-weight:800;
+    color:#111;
+}
+
+#banner h2 {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size:18px;
+    font-weight:300;
+    color:#111;
+}
+
+/* Section Title and Subtitle */
+.section-title {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 34px; 
+    font-weight:700;
+    color:#111;
+}
+/* Text lorem bottom */
+.section-subtitle {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 16px;
+    font-weight:300;
+    color:#111;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 40px; 
+    font-weight:300;
+    color:#111;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 34px; 
+    font-weight:300;
+    color:#111;
+}
+
+#landing-footer, #landing-footer p, #landing-footer a {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size:12px;
+    font-weight:normal;
+    color:#000000;
+}
+
+
+
